@@ -1,0 +1,13 @@
+We have a bar with 15 tables in which the main customers were the local alcoholics, 
+they were making a lot of problems to the owner of the bar, going home without paying
+on the next day comming back and agruing about how much money they owed and how much alcohol they consumed.
+So the bar owner decided that he had to make a software in which he can enter: number of table, 
+names of clients who sat on the table, what they ordered. Write a program with an appropriate menu and the following functionality:
+- fillNewClient
+- fillNewConsumption
+- calculateTableConsumption
+
+NOTES*
+- The clients and consumtion for each table must be linked lists
+- The program needs to be realized in minimum 3 files 
+Example - main.c, structureHeader.h, structureFunctionality.h
